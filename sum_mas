@@ -1,0 +1,13 @@
+let Mas = [2, 4, 6, 8];
+
+function summ(Mas)
+{
+    let sum = 0;
+    Mas.forEach(item => 
+        {
+            sum = sum + item;
+        });
+        return sum;
+}
+
+console.log(summ(Mas))
