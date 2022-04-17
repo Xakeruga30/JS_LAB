@@ -1,4 +1,4 @@
-let Mas = [2, 4, 6, 8];
+let Mas = [3, 4, 6, 8];
 
 function summ(Mas)
 {
